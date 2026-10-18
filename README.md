@@ -3,7 +3,7 @@
 
    ## Install
 ```
-   flutter pub add widget_package --git-url=https://github.com/YOUR_NAME/widget_package.git --git-ref=v0.1.0
+   flutter pub add widget_package --git-url=https://github.com/anshika410/widget_package.git --git-ref=v0.1.0
 ```
 
    ## Use
